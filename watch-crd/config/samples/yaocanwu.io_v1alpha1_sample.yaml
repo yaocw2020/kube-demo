@@ -1,0 +1,7 @@
+apiVersion: yaocanwu.io/v1alpha1
+kind: Sample
+metadata:
+  name: sample-sample
+spec:
+  # Add fields here
+  foo: bar

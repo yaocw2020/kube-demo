@@ -1,0 +1,6 @@
+repo: yaocw2020/kube-demo/watch-crd
+resources:
+- group: yaocanwu.io
+  kind: Sample
+  version: v1alpha1
+version: "2"
